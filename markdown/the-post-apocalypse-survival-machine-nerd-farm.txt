@@ -1,0 +1,241 @@
+---
+title: The Post-Apocalypse Survival Machine Nerd Farm
+date: 01/11/2012
+modified: 14/04/2013
+author: Ashlee Vance
+categories: news
+tags: hardware, open-source, ecology, farming
+source_name: Bloomberg Businessweek
+source_url: http://www.businessweek.com/articles/2012-11-01/the-post-apocalypse-survival-machine-nerd-farm
+comments: true
+
+Marcin Jakubowski sits cross-legged on the dirt floor of a round hut in Missouri
+farm country, carefully making an open-faced mayo and cheddar sandwich. Inside
+the hut there’s a bed, a small desk, a few plastic containers (including one for
+food), and, occasionally, mice and snakes. It’s 104°F out and only slightly
+cooler inside. There’s no fridge~, so just how the mayonnaise hasn’t spoiled is
+something of a mystery. Jakubowski, who’s of average height and extremely fit,
+wears khakis and a long-sleeve oxford shirt. “What we are doing here is
+conducting a civilization reboot experiment,” he says. He carefully places
+cheddar shreds on top of the mayo, squirts the works with Sriracha hot sauce in
+a precise cross-hatch pattern, bites, chews. “It’s about sustainable living and
+having open access to critical information and tools.”
+
+Jakubowski’s hut anchors a 30-acre compound near Maysville, Mo., full of wooden
+shacks, yurts, work sheds, flapping laundry, clucking chickens, and a
+collection of black and strange-looking machinery. A dozen or so people in
+their twenties, none of whom appears to have bathed in a while, wander around
+or fiddle with the machines. Jakubowski has named the place Factor e Farm,
+though the goal isn’t just the cultivation of crops. Rather, it’s to create a
+completely self-sufficient community that produces not only its own food, but
+also energy, tools, and raw materials for making those tools. Jakubowski’s
+ultimate purpose is both to live off the grid and to teach others—whether out
+of choice or necessity—how to do so too.
+
+In 2007, Jakubowski began working on a minimum set of machines necessary to
+sustain a modern civilization. It comprises bread ovens, aluminum smelters,
+tractors, brick presses, and 46 others. Factor e Farm has already built 15 of
+these devices, including a computer-controlled torch table that can cut
+intricate patterns on metal with a jet of superheated ionized gas. Work will
+com-mence soon on a cement mixer, a sawmill, and an industrial robot.
+
+
+Most of Factor e Farm’s equipment runs on an in-house invention called a Power
+Cube. It’s a black metal box about the size of an office copier, with a
+27-horsepower engine that runs a hydraulic pump. The Power Cube’s engine can
+drive the bulldozers; the pumps can power the table saws and other smaller,
+stationary machines.
+
+Jakubowski expects to have all 50 tools finished by 2015 and publishes progress
+reports on the Open Source Ecology website. He shares the designs for all the
+machines and produces how-to-make-it videos. He wants as many people as
+possible to take a crack at improving the designs.
+
+Fifty tools aren’t a hedge against the apocalypse, although if most of
+civilization is wiped out, survivors with Factor e Farm plans may at least have
+something to work with. What Jakubowski is trying to prove is that people can
+live without the help of corporations. A few years ago, his attempts at utopia
+kept being undermined by the costs of repairing his farm equipment. So he
+decided to cut out the middleman and forge his own gear. “If you’re going to
+try to build any kind of sustainable, model community, you find out quickly
+that the tools you need break down and are expensive,” he says. “Without fixing
+this situation, you’re always left conducting business as usual.”
+
+After Factor e Farm completes its “Global Village Construction Set,” Jakubowski
+expects communities around the globe to use these tools, spurring an explosion
+of innovation as people take his tractors and drills and build even better
+ones. Eventually, this virtuous circle will yield equipment rivaling that made
+by market-leading corporations—a tractor that is 90 percent as good as a John
+Deere at a fraction of the price. Showing up established corporations is
+critical to Jakubowski, because, he says, they spend too much time obsessing
+over patents, spending millions on commercials, and generally getting in the
+way of progress. “We are calling our work the Open Source Economy,” he says.
+“We can collaborate on the machines and publish everything openly. We can
+reduce all of this competitive waste. You have to start somewhere.”
+ 
+ 
+Factor e Farm is about an hour north of Kansas City, Mo. To get there, you turn
+off a two-lane road onto a gravelly stretch that runs for about a mile before
+hitting the commune’s dirt driveway, which after about 100 yards leads to the
+main living and work areas. Jakubowski’s hut and two others form the heart of
+the compound. Nearby is a large, open-air workshop and a pair of his larger
+contraptions, a bulldozer and tractor that look like Mad Max’s take on a John
+Deere.
+
+Jakubowski, 40, came to the U.S. from Poland at age 10 with his family. He
+graduated with honors from Princeton and later earned a doctorate in nuclear
+fusion physics from the University of Wisconsin. But he soured on the idea of a
+lifetime in academics. As he likes to say, he woke up one day to discover that
+he was “useless.” A steady diet of Indian food, yoga, and meditation persuaded
+him to take an active role in trying to solve the world’s less theoretical,
+more immediate problems. So he headed to Maysville and paid $60,000 for his
+plot of land.
+
+For a few years, Jakubowski lived mostly alone. First, he built the hut. That
+backbreaking work persuaded him to build a brick press. Next, he constructed a
+workshop to make more tools, including the tractor. He posted videos on the Web
+and gained a following of DIYers. Now and again, a couple people would show up
+during the summer to help out, and they made huts alongside Jakubowski’s. That
+changed in early 2011, when he was invited to give a lecture at a TED
+(Technology, Entertainment and Design) conference.
+
+In his [TED Talk](http://www.ted.com/talks/marcin_jakubowski.html), Jakubowski
+took the stage in a khaki Mao suit and explained how he planted 100 trees in one
+day, pressed 500 bricks “from the dirt beneath my feet,” also in one day, and
+built a tractor in six. “If we can lower the barriers to farming, building,
+manufacturing,” he said calmly, “then we can unleash just massive amounts of
+human potential.” The goal, he said, is to create on one freely downloadable DVD
+a “civilization starter kit.” He ended the talk and received TED’s customary
+rapturous applause.
+
+Since Jakubowski’s TED Talk was posted to YouTube in April 2011, it’s been
+viewed by more than 1 million people, around 500 of whom agreed to donate $10 or
+so a month to “subscribe” to the farm. The foundation of Mark Shuttleworth, a
+billionaire South African technology entrepreneur, gave Jakubowski $360,000 to
+pursue the work. The TED video even inspired a handful of hardy idealists to
+make a pilgrimage to Missouri and help out on the Factor e Farm. Then a few more
+showed up, some staying a week or two, some for months.  By August 2012, there
+were 14 to 20 people staying on the farm at any one time, though it looked less
+like a farm than an unhygienic encampment for overeducated misfits.
+ 
+ 
+Factor e Farm has 400 fruit trees, although none produce fruit in any meaningful
+quantity yet. A dilapidated greenhouse not far from the workshop has nothing but
+weeds growing inside. As a result, almost all of the farm’s food and supplies
+come from Wal-Mart and other stores in nearby towns. “We are going through major
+growing pains,” Jakubowski explains. ˙
+
+A curved dirt path runs from Jakubowski’s hut to the main workshop area. On
+either side of the path are yurts and shacks with clotheslines strung between
+them. An old toilet bowl is used for growing herbs; chickens and rabbits sit in
+cages awaiting food. About 200 yards past the yurts is a larger structure
+called the Hab Lab, which was built by a local carpenter as a barracks during
+the post-TED Talk overflow. It’s easy to find from the smell.
+
+Bedrooms line one side of the building and a kitchen and bathrooms take up most
+of the other. Between them is a common area with a table, couches, and open
+buckets of rotting waste that, in the historic Midwestern heat wave of 2012,
+produce a sweet, gag-inducing stench that sticks to the lining of the nostrils.
+In the kitchen, strips of flypaper, covered in dead bugs, dangle from the
+ceiling. House chore schedules posted on the walls are largely ignored.
+
+A half-dozen or so young Factor e farmhands live in the Hab Lab. Three came
+from Greece as part of an agricultural education program and spend the majority
+of their days watching cartoons online. What the Hab Lab lacks in plumbing, it
+makes up for in Wi-Fi. No one’s wearing shirts. There’s no air conditioning,
+and the straw stuffed into the mud walls for insulation doesn’t cool things
+down much.
+
+Vann Miller, 39, keeps his Maserati parked in front of the Hab Lab. He’s a
+freelance software developer with homes in San Francisco, New Orleans, and now a
+secluded hexagonal yurt at Factor e Farm, where he’s lived for about a month.
+He stayed in the Hab Lab for a while but decided to build the yurt out of
+insulation panels from Home Depot “It took me a week to clear the site with a
+shovel and pickax,” says Miller. “I leveled it with gravel, which helps keep out
+the water and the animals.”
+
+Miller has a 100-foot power cable stretching from an outlet in an old living
+area into his yurt, where a MacBook Air sits on a small, plastic table.  He says
+his area of expertise—software coding practices that speed up project
+development—should up the tempo of Factor e Farm’s tool-building. “I have been
+holding orientation meetings and people seem to be adopting the
+agile-development techniques well,” he says.
+
+The drinking water had been drawn from a well on the property, but the well and
+a filter couldn’t keep up with all the farm’s guests. “A couple of weeks ago, a
+few people started getting sick,” says Marshall Hilton, 28, an engineer from
+San Francisco. “We decided it might be the water and now don’t recommend that
+people drink it,” he says.
+
+As with the other Factor e dwellers, Hilton’s bathroom is a 5-gallon bucket. “I
+am composting my own waste,” he says. “I line my bucket with about two inches
+of subsoil. Every time I make a deposit, I cover it with organic matter. I have
+my bucket in my yurt, and it’s sealed off. There are no bugs. Well, I mean,
+there are a few bugs.”
+ 
+ 
+As part of the ground rules for my visit to the farm in July, I agree to help a
+squad of farmworkers build a set of rooms on the side of the Hab Lab. To really
+appreciate what they’re doing here, went the pitch, I should work beside them.
+So on the second morning of my visit I report for duty. The others never do.
+“That’s typical,” says John Marlatt, a local retired carpenter who showed up to
+lead the project. “The kids are always supposed to help, but usually they’re
+all inside and don’t do anything unless Marcin rustles them up. Oh, and don’t
+drink the water. Seriously. I mean it.”
+
+The Hab Lab no-shows notwithstanding, there are some signs the farm may be
+getting its act together. Gabrielle LeBlanc has just been hired as the
+agriculture chief. She’s a 22-year-old from suburban Los Angeles who wears a
+tie-dye dress and has a “hemp history week” sticker on her laptop. “I am used
+to foraging for my food,” she says. “I enjoy being out with the birds and
+bugs.” LeBlanc studied animal science at the University of California-Davis. A
+couple days before my arrival, she had the farm pay $1,000 for a dairy cow
+(plus $30 for delivery), which she has named Good Cow and now keeps on the farm
+in a paddock enclosed by an electric fence. LeBlanc plans to get the greenhouse
+back in order before next planting season and to plant some crops and dig a
+pond. Hilton, one of the yurt-dwelling engineers, has been refining a DIY
+compressed-earth brick press and is hopeful he can turn it into something the
+farm can sell for $9,000 each. “The closest competitor is $45,000,” he says.
+
+With his funding from the Shuttleworth Foundation and other organizations,
+Jakubowski says he plans to move from a volunteer workforce to an established
+team. He also wants to shift from a handful of haphazard projects taking place
+to doing a dozen at one time. He acknowledges it may seem odd to have food and
+building materials shuttled into a “self-sustaining” community from nearby
+supermarket chains and Home Depot. “Right now, we depend on off-the-shelf
+parts, but the point is we are building the machines we need for the next
+phase,” Jakubowski says. “Soon, we’ll build the components of the machines and
+then build the materials.”
+
+By “build the materials,” Jakubowski means he would like to eventually extract
+the elemental natural resources for his tools as well. “We have techniques for
+aluminum extraction from clay,” he says. He wants to produce his own metal for
+robots and computers. He even intends to build his own computer chips by
+finding a supply of silicon and constructing a mini-semiconductor fabrication
+plant.
+
+The Factor e Farm may seem crude now but, Jakubowski emphasizes, it’s just one
+node in the network he envisions. The answers will not all come from him or the
+farm. Other people will improve the designs, and, in time, a “distributed
+enterprise” will arise—a society in which the people have taken back control of
+their technology and lowered the basic cost for existence by several orders of
+magnitude. “That is the model for the next economy,” Jakubowski says. “By
+open-sourcing the entire production system, you can increase innovation by a
+hundredfold.” His rhetoric really soars when he begins to explain the “e” in
+Factor e. According to the commune’s website, “e” stands for “ecology,
+experiments, and exponents, evolving to freedom. E is a transcendental number.
+It is the growth rate of any natural system. E is our existence.”
+
+Marlatt, the retired carpenter, agrees that Jakubowski can come across as
+eccentric, even delusional, but blames at least some of the farm’s disarray on
+this summer’s brutal drought. He’s cautiously optimistic. “This is most
+definitely a good idea,” Marlatt says. “America is in trouble, and the idea of
+being energy-efficient and knowing how to survive and build things is the right
+course.”
+
+Come December, Jakubowski plans to start selling the brick presses and prove
+that the farm can make a profit of $5,000 per day from one of its machines. In
+the meantime, he’ll keep enduring the curious people who drive by the farm to
+peek at the strange folks building the strange contraptions. As Jakubowski
+tells the locals, “Look us up on the Internet. We are not thugs. We are trying
+to build a new civilization.”
