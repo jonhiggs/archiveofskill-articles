@@ -1,7 +1,7 @@
 ---
 title: Graves' Bushcraft Books - Ropes And Cords
 slug: the-bushcraft-books-ropes-and-chords
-date: unknown
+date: 02/1978
 modified: 20/04/2013
 author: Richard Graves
 categories: bushcraft
@@ -12,7 +12,7 @@ original: false
 comments: true
 
 One of the first needs in Bushcraft is the ability to join poles or sticks. The
-only method available is by the use of lashings.
+only method available is by the use of lashings.~
 
 To use lashings however, it is necessary to have, find or make materials for
 this purpose.
