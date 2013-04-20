@@ -1,6 +1,6 @@
 ---
 title: Graves' Bushcraft Books - Ropes And Cords
-title: 
+slug: the-bushcraft-books-ropes-and-chords
 date: unknown
 modified: 20/04/2013
 author: Richard Graves
