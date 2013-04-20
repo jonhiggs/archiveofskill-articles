@@ -1,5 +1,6 @@
 ---
 title: Graves' Bushcraft Books - Ropes And Cords
+title: 
 date: unknown
 modified: 20/04/2013
 author: Richard Graves
@@ -76,7 +77,7 @@ itself, but allows the knot to be pulled taut, then it is suitable for rope
 making, providing that the material will 'bite' together and is not smooth or
 slippery.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478445_5d52a4ca7a_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478445_5d52a4ca7a_z.jpg)
 
 You will find these qualities in all sorts of plants, in ground vines, in most
 of the longer grasses, in some of the water reeds and rushes, in the inner
@@ -87,7 +88,7 @@ is the case try passing it through hot flames for a few moments. The heat
 treatment should cause the sap to burst through some of the cell structure, and
 the material thus becomes pliable.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478461_056c6551c7_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478461_056c6551c7_z.jpg)
 
 Fibres for rope making may be obtained from many sources:
 
@@ -106,7 +107,7 @@ In some plants there may be a high content of vegetable gum and this can often
 be removed by soaking in water, or by boiling, or again, by drying the material
 and 'teasing' it into thin strips.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476307_87ca4319d6_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476307_87ca4319d6_z.jpg)
 
 Some of the materials have to be used green if any strength is required. The
 materials that should be green include the sedges, water rushes, grasses, and
@@ -158,7 +159,7 @@ together or 'laying' is done with an anti-clockwise twist, while at the same
 time the separate strands which have not yet been laid up are twisted
 clockwise. Each strand must be of equal twist and thickness.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478475_537cd13eb4_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478475_537cd13eb4_z.jpg)
 
 The person who twists the strands together is called the 'layer', and he must
 see that the twisting is even, that the strands are uniform, and that the
@@ -216,16 +217,16 @@ forked stakes into the ground about 6' [1.8 m] apart and at intervals of about
 6' to 10' [1.8 m to 3 m]. The cross bars must be smooth, and free from twigs
 and loose portions of bark that might twist in with the spinning strands.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056208_f0b9656557_b.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056208_f0b9656557_b.jpg)
 *Layout of a rope walk*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478525_9b1d73eed2.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478525_9b1d73eed2.jpg)
 *Spinners*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478549_b26e41eda6.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478549_b26e41eda6.jpg)
 *Laying up*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478577_9906c779b5_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478577_9906c779b5_z.jpg)
 *More spinners*
 
 The cross bar A is supported by two uprights, and pierced to take the cranks B.
@@ -241,21 +242,21 @@ Always make it a rule to turn the first strand clockwise, then the laying up of
 the strands will be done anti-clockwise and the next laying will again be
 clockwise.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207732111_1ed4415980_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207732111_1ed4415980_z.jpg)
 *Bark fibre being spun into strands using a single crank handle.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5208073740_34316a7fc9_z.jpg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5208073740_34316a7fc9_z.jpg)
 *Spinner-feeder on right with bundle of material under his right arm feeds in
 material.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476651_db0eb10984_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476651_db0eb10984_z.jpeg)
 *Joining the strands prior to lay up.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476671_2280f9a636_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476671_2280f9a636_z.jpeg)
 *Testing the rope of bark fibre, breaking strain 1" [2.5 cm] diameter, about 800
 lbs. [365 kg].*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5208073836_9ebfc0276c_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5208073836_9ebfc0276c_z.jpeg)
 *Close up of the finished rope.*
 
 Proof that your rope is well made will be if the individual fibres lie
@@ -287,7 +288,7 @@ spun to the required length, which should be no more than about a 100' [30 m],
 they are joined together by being held at the far end. They are then ready for
 laying together.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478587_49335a2d1a_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478587_49335a2d1a_z.jpeg)
 
 The turner, who is facing the cranks, twists the ends together anti-clockwise,
 at the same time keeping his full weight on the rope and which is being layed
@@ -381,7 +382,7 @@ leaf stalks and all green material. If the split starts to run off, you must
 bend the material away from the thin side, and then it will gradually gain in
 size, and come back to an even thickness with the other split side.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056302_6b9ab01cbf_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056302_6b9ab01cbf_z.jpeg)
 
 ## Bark Fibres
 The fibres in many barks which are suitable for rope making are close to the
@@ -423,33 +424,33 @@ A general rule for all plaits is to work from the outside into the centre.
 
 ###Three Plait
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056320_880390b358_o.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056320_880390b358_o.gif)
 *Take the right-hand strand and pass it over the strand to the left.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478629_79ecc63435_o.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559478629_79ecc63435_o.gif)
 *Take the left-hand strand and pass it over the strand to the right and repeat
 alternately front left to right.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056346_63ee2c08bd_o.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056346_63ee2c08bd_o.gif)
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056362_f6e79678b4_o.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056362_f6e79678b4_o.gif)
 
 
 ###Flat Four Plait
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (1).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (1).gif)
 *Lay the four strands side by side. Take the right-hand strand as in Fig. 1 and
 lay it over the strand to the left.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (2).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (2).gif)
 *Now take the outside left-hand strand as in Fig. 2 and lay it under the next
 strand to itself and over what was the first strand.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (3).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (3).gif)
 *Take what is now the outside right-hand strand and lay it over the first strand
 to its left.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (4).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Flat Four Plait (4).gif)
 
 *Take the outside left strand and put it under and over the next two strands
 respectively moving towards the right. Thereafter your right-hand strand goes
@@ -458,45 +459,45 @@ right.*
 
 ###Broad Plait
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (1).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (1).gif)
 *To commence take six, seven or more strands, and hold them flat and together.
 Take a strand in the centre and pass it over the next strand to the left.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (2).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (2).gif)
 *Take the second strand in the centre to the left and pass it towards the right
 over the strand you first took so that it points towards the right.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (3).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (3).gif)
 *Now take the next strand to the first one and weave it under and over.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (4).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (4).gif)
 *Weave the next strands from left and right alternately towards the centre as in
 Fig. 4, 5, 6.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (5).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (5).gif)
 *Fig 5*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (6).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (6).gif)
 *Fig 6*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (7).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Broad Plait (7).gif)
 *The finished plait should be tight and close.*
 
 
 ####To Finish Off
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (1).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (1).gif)
 *Take one of the centre strands, and lay it back upon itself*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (2).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (2).gif)
 *Now take the first strand which it enclosed in being folded back, and weave
 this back upon itself.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (3).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (3).gif)
 *Take a strand from the opposite side, and lay it back and weave it between the
 strands already plaited.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (4).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/To Finish Off (4).gif)
 *All the strands should be so woven back that no strands show an uneven pattern,
 and there should be a regular under-over-under of the alternating weaves.*
 
@@ -509,26 +510,26 @@ a bottle to work smooth after finishing off.
 ###Round Or Lariat Plait (Four Strands)
 
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (1).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (1).gif)
 *Lay the four strands together side by side, as in Fig. 1, and cross the
 right-hand centre strand over, and then around the left-hand strand.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (2).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (2).gif)
 *Take the left-hand outside strand and pass it over the two crossed strands, and
 then under the right-hand one of the two, so that it is pointing towards the
 left.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (3).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (3).gif)
 *Take the free right-hand strand, and pass it over the two twisted strands to
 the left and completely round the left-hand one of the two.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (4).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (4).gif)
 *Repeat this with the outside left-hand strand.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (5).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (5).gif)
 *Repeat with the right-hand strand.*
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (6).gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/Round Or Lariat Plait (6).gif)
 *The finished plait should look like this.*
 
 ##Testing Your Rope
@@ -550,9 +551,9 @@ quite secure.
 By means of the footlock you can climb to any height on the rope, stopping to
 rest when your arms tire.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056638_7385c106a3_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056638_7385c106a3_z.jpeg)
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559479025_3d6f742935_o.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559479025_3d6f742935_o.gif)
 
 The footlock is made by holding onto the rope with both hands, lifting the
 knees, and kicking the rope to the outside of one foot. The foot on the
@@ -576,7 +577,7 @@ It is advisable to wear boots or shoes when climbing bushmade ropes.
 This method of descending is much safer than sliding. In sliding there is grave
 risk of bad rope burns to hands and legs.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5269713315_c7a5f29b1f_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5269713315_c7a5f29b1f_z.jpeg)
 
 Ascent of a cliff face, using a footlock on a grass rope. The grass rope was 3
 strand 3 lay of 2" [5 cm] diameter.
@@ -586,7 +587,7 @@ The 'Absyle' is used for rock work, generally for descending, though it can be
 used on some faces for ascent. In the 'Absyle' the body is up-right, but the
 legs are stretched out, and the feet pressed against the rock face.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056674_5f276e1735_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056674_5f276e1735_z.jpeg)
 
 The rope passes down between the thighs, around one thigh and diagonally up and
 across the upper half of the body and over the shoulder opposite to the leg
@@ -604,14 +605,14 @@ shoulder. By this means the climber can 'sit' on the rope and rest. When using
 the 'Absyle' it will be found that bare feet, sandshoes or spiked shoes give a
 better grip on the rock face than plain leather soles.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476745_86c0f0c009_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476745_86c0f0c009_z.jpeg)
 
 Absyle used for descending rock face. This bush-made grass rope is 3 strand 3
 lay of about 2" [5 cm] diameter. Breaking strain approx. 900 lbs. [430 kg].
 
 ##Tying Split Canes And Vines Together
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056714_e1291fc8e0_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056714_e1291fc8e0_z.jpeg)
 
 These materials will only tie with special knots and it is a safe rule to tie
 with the outside of the skin on the outside bend of the knot, as in A. If you
@@ -619,7 +620,7 @@ try to tie with the inside of the material on the outer surface of the bend (as
 in B), it is probable that the material will either crack or snap off, and you
 may reject it as useless.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559479059_fd0783a7b8_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559479059_fd0783a7b8_z.jpeg)
 
 When pulling the knot taut, do so gently. If you snap the joining knot the
 material may either cut itself or break. If the canes or vines are brittle
@@ -637,7 +638,7 @@ bridge; for a safety-line across a fast or flooded river.
 
 ###Single Rope Ladder With Sticks
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056734_f1af13d0a5_o.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5560056734_f1af13d0a5_o.gif)
 
 A single rope ladder is made by opening the lays of the rope and inserting
 cross sticks each about 8" [20 cm] long as shown with an equal amount
@@ -664,7 +665,7 @@ knot.
 
 ###Rope Bridge
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5298107610_6e50d4d933_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5298107610_6e50d4d933_z.jpeg)
 
 The first 'A' frame is hooked onto the ropes and pushed forward with a stick.
 The footing, a straight sapling, is dropped down onto the crotch of the frame
@@ -675,9 +676,9 @@ If Monkey vines, Lianas, or Lawyer vines (Calamus) are available instead of
 bush-made rope, use any of these. They are much stronger and will make a bridge
 strong enough for 4 to 6 men at a time.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5269713053_74d8e8b9a2_z.jpeg)
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5208073484_5372d99514_z.jpeg)
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476765_52f89343b9_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5269713053_74d8e8b9a2_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5208073484_5372d99514_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5207476765_52f89343b9_z.jpeg)
 
 Two ropes are spun. They must be very strong and thoroughly tested. They are
 anchored to either side of the river, either to convenient trees or to anchors
@@ -686,7 +687,7 @@ The number required depends upon the length of the decking.
 
 ##To Measure The Distance Across A River Or Gorge
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559479115_dfaf3f0b48_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5559479115_dfaf3f0b48_z.jpeg)
 
 Select a mark on the opposite bank 'A', and then drive a stake on the near bank
 'B'. Walk at right angles for a known number of paces and put in another marker
@@ -714,7 +715,7 @@ A bush rope can be spun to serve as a safety line for crossing flooded or fast
 rivers. The rope is taken across by one member of the party, and fastened to an
 anchor on the opposite bank.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5297510189_838470b4f5_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5297510189_838470b4f5_z.jpeg)
 
 As a safety line it should be above water level. The person crossing should
 stand on the downstream side of the rope, and face upstream. He crosses by
@@ -726,7 +727,7 @@ is a less strong portion of the current where he can regain his footing.
 
 ##1 - 2 - 3 Anchor
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5318742920_4037363cc6_z.jpeg)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/5318742920_4037363cc6_z.jpeg)
 
 A very stout stake is driven into the ground, at an angle of about 45°, and to
 the foot of this the main rope to be anchored is fastened. To the head of this
@@ -734,7 +735,7 @@ stake two ropes are secured and these are fastened to the foot of two stakes to
 the rear. The heads of these stakes are in turn tied back to the foot of three
 other stakes. This anchor will hold secure under almost all conditions.
 
-!(http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/1 - 2 - 3 anchor.gif)
+![](http://assets.archiveofskill.com/articles/the-bushcraft-books-ropes-and-chords/1 - 2 - 3 anchor.gif)
 
 ###Anchoring A Peg In Sand
 The only way to anchor a rope into soft sand is to attach it to a peg, and bury
