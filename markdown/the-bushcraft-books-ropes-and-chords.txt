@@ -65,7 +65,7 @@ qualities:
 * It must be reasonably long in the fibre.
 * It must have 'strength'.
 * It must be pliable.
-* And it must have 'grip' so that the fibres will 'bite' onto one another.;lk' 
+* And it must have 'grip' so that the fibres will 'bite' onto one another.
 
 There are three simple tests to find if any material is suitable.
 
