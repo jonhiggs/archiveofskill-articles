@@ -1,0 +1,24 @@
+---
+title: Title of article
+date: 24/03/1900
+author: Your Name
+categories: main category
+tags: comma seperated, list, of, subjects, article, touches
+original: true or false
+source_name: if not original, name of the source site.
+source_url: if not original, link to source.
+
+Start your document like this.
+
+If I want to add an image, it would go like this:
+![title of image](name_of_attached_image_file.jpg)
+
+If I want to add a link to another site, [I could make one like
+this](http://somewhere.com)
+
+For full syntax documentation you can see the [Markdown syntax
+document](http://daringfireball.net/projects/markdown/syntax)
+
+There are plenty of good markdown editors to help you see what your outputted
+document will look like. I like [Mou](http://mouapp.com/), but I'm sure there
+are plenty of others for whatever your prefered platform may be.
