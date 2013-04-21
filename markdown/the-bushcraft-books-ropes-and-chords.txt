@@ -198,11 +198,7 @@ let them lie on the ground. You can spin strands of 20 yd. to 100 yd. [20 m to
 90 m] before laying up. Do not spin the material in too thickly. Thick strands
 do not help strength in any way, rather they tend to make a weaker rope.
 
-![(##STATIC##/articles/the-bushcraft-books-ropes-and-chords/5297510071_d629ca2719_z.jpg)
-*This illustration shows the general direction of twist and the method whereby
-the fibres are bonded into strands. In similar manner the twisted strands are
-put together into lays, and the lays into ropes. Illustrated in this diagram is
-a two strand lay.*
+![This illustration shows the general direction of twist and the method whereby the fibres are bonded into strands. In similar manner the twisted strands are put together into lays, and the lays into ropes. Illustrated in this diagram is a two strand lay.](##STATIC##/articles/the-bushcraft-books-ropes-and-chords/5297510071_d629ca2719_z.jpg "This illustration shows the general direction of twist and the method whereby the fibres are bonded into strands. In similar manner the twisted strands are put together into lays, and the lays into ropes. Illustrated in this diagram is a two strand lay.")
 
 ## Setting Up A Rope Walk
 When spinning ropes of 10 yd. [10 m] or longer it is necessary to set cross
