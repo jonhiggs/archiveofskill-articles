@@ -7,7 +7,7 @@ categories: news
 tags: hardware, open-source, ecology, farming
 source_name: Bloomberg Businessweek
 source_url: http://www.businessweek.com/articles/2012-11-01/the-post-apocalypse-survival-machine-nerd-farm
-comments: true
+comments: false
 
 Marcin Jakubowski sits cross-legged on the dirt floor of a round hut in Missouri
 farm country, carefully making an open-faced mayo and cheddar sandwich. Inside
