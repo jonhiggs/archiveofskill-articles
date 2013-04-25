@@ -5,7 +5,7 @@ date: 01/02/1978
 modified: 28/04/2013
 author: Richard Graves
 categories: bushcraft
-tags: 
+tags: bricks thatching bracing shelters formwork joins
 source_name: Chris Molloy's Interweb Folly
 source_url: http://www.chrismolloy.com/bushcraft
 original: false
